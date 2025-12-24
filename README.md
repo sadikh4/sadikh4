@@ -1,4 +1,4 @@
-## Hi, I'm Sadikh
+## Hi, I'm Muhammad Sadikh N
 
 B.Tech Electronics and Communication Engineering student focused on
 embedded systems, hardware prototyping, and assistive electronics.
